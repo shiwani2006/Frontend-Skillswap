@@ -106,3 +106,17 @@ npm run dev
 
 <img width="1888" height="852" alt="image" src="https://github.com/user-attachments/assets/524c97a4-ab57-46fe-a44f-cb46cbca8b3c" />
 
+
+
+
+
+
+---Provider Dashboard---
+<img width="1898" height="870" alt="image" src="https://github.com/user-attachments/assets/d27d285d-2686-42b8-b2e3-9fe76a5339ef" />
+
+
+
+
+---User Dashboard---
+<img width="1896" height="871" alt="image" src="https://github.com/user-attachments/assets/f6566c8c-0a54-4253-ad16-2722513a1403" />
+
