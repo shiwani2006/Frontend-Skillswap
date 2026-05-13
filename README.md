@@ -96,3 +96,13 @@ npm run dev
 ## Tagline
 
 **Exchange skills. Build community. Grow together.**
+
+
+---Home page---
+<img width="1894" height="871" alt="image" src="https://github.com/user-attachments/assets/758dba8f-3c1e-446a-92c0-84646fc38f04" />
+
+
+
+
+<img width="1888" height="852" alt="image" src="https://github.com/user-attachments/assets/524c97a4-ab57-46fe-a44f-cb46cbca8b3c" />
+
